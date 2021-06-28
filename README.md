@@ -1,4 +1,5 @@
 ## Screen Recorder Using Electron js
+**This is a screen Recorder this is develop using Eletron.js**
 ### Home UI
 ![image](https://user-images.githubusercontent.com/62868878/123625657-98959580-d82d-11eb-9ba4-7314ae26b6fb.png)
 
